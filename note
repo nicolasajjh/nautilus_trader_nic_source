@@ -25,3 +25,8 @@ error: linking with `x86_64-w64-mingw32-gcc` failed: exit status: 1
 error: could not compile `nautilus-indicators` (lib) due to 1 previous error
 warning: build failed, waiting for other jobs to finish...
 @nicolasajjh ➜ /workspaces/nautilus_trader $ 
+
+
+saya fork sebuah repository, 
+lalu di vscode webnya githuub codespace sy pencet commit
+but it commiting to the main repository not to my fork?
