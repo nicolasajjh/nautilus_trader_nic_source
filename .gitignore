@@ -1,6 +1,6 @@
 *.c
 *.exp
-*.lib
+
 *.o
 *.obj
 *.so
